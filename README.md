@@ -15,10 +15,9 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 
+🤖 [Introduction](#introduction)
+⚙️ [Tech Stack](#tech-stack)
+🔋 [Features](#features)
 ## <a name="introduction">🤖 Introduction</a>
 
 This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
